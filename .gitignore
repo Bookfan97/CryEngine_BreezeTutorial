@@ -1,0 +1,10 @@
+# Asset files.
+*.pak
+*.caf
+
+#Other
+*.dds
+*.exe
+*.gfx
+/bin
+Breeze Tutorial/bin
